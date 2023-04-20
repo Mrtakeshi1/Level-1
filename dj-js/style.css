@@ -1,0 +1,21 @@
+.border {
+  border: solid black 15px;
+  width: fit-content;
+  margin: auto;
+  padding: 30px;
+  }
+  
+  li {
+    font-size: 20px;
+  }
+  
+  #box {
+    width: 200px;
+    height: 100px;
+    padding: 5
+    0px;
+    border: solid black 5
+    px;
+    background: black;
+    margin: auto;
+  }
